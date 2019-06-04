@@ -7,6 +7,8 @@ or followed the tutorial in their own time.
 
 Workshops
 =========
+DLMU in Dalian, 4th June 2019
+Yi Zhou https://github.com/joeyee
 
 Pycon Zimbabwe in Harare, 24th November 2016
 ---------------------------------------------
